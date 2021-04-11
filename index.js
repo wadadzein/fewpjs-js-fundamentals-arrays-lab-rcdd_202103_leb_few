@@ -1,2 +1,2 @@
 const pets = ["Milo", "Otis", "Garfield"];
-const append = pets.pop ("Odie");
+const append = pets.push ("Odie");
