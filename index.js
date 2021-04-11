@@ -1,1 +1,2 @@
-let cons = ["Milo", "Otis", "Garfield"];
+cons pets = ["Milo", "Otis", "Garfield"];
+let append
