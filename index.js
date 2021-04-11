@@ -1,1 +1,1 @@
-let cons = []
+let cons = ["Milo", "Otis", "Garfield"];
