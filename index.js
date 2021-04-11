@@ -1,2 +1,2 @@
-cons pets = ["Milo", "Otis", "Garfield"];
+const pets = ["Milo", "Otis", "Garfield"];
 let append
